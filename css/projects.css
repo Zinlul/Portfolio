@@ -1,6 +1,9 @@
-.body{
+.page-top{
     background-image: url(https://source.unsplash.com/BtbjCFUvBXs/1920x1080);
 }
 #img{
     border: 3px double #EA2027;
+}
+.MainNav{
+    background-color: black;
 }

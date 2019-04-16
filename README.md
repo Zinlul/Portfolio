@@ -13,7 +13,7 @@ https://www.webpagetest.org/result/190416_08_d00492d3448f1461e5a7df721bcde659/
 
 ---
 
-Validation - https://imgur.com/a/Znbe4Wn
+Validation - https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fzinlul.github.io%2FPortfolio%2F
 
 ---------------------------------------------------------------------------
 

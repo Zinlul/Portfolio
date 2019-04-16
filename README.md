@@ -18,6 +18,9 @@ Validation - https://imgur.com/a/Znbe4Wn
 ---------------------------------------------------------------------------
 
 Mobile Screenshot - 
+
+![](https://i.imgur.com/uFW0hcb.jpg)
+
 https://imgur.com/a/VIrIcyY
 
 ---------------------------------------------------------------------------
